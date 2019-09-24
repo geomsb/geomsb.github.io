@@ -25,8 +25,8 @@ a {
 }
 
 li {
-  background-image: url("../images/brush.svg");
-  filter: brightness(0.5)
+  background-image: url("../images/brush.png");
+  font-size: 120%
 }
 
 a:hover {
