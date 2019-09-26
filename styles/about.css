@@ -77,3 +77,9 @@ img {
   width: 20%;
   height: auto;
 }
+
+footer {
+  grid-row-start: 3;
+  display: flex;
+  justify-content: center;
+}

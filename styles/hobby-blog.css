@@ -71,3 +71,9 @@ img {
   border-radius: 25%;
   border: 3px solid #d0a1a8;
 }
+
+footer {
+  grid-row-start: 3;
+  display: flex;
+  justify-content: center;
+}

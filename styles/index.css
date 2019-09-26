@@ -70,3 +70,9 @@ p {
   text-align: center;
   font-size: 150%;
 }
+
+footer {
+  grid-row-start: 3;
+  display: flex;
+  justify-content: center;
+}
